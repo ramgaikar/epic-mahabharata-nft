@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/epic-mahabharata-nft/static/css/main.2cfebc3a.chunk.css",
-    "main.js": "/epic-mahabharata-nft/static/js/main.61817d4e.chunk.js",
-    "main.js.map": "/epic-mahabharata-nft/static/js/main.61817d4e.chunk.js.map",
+    "main.js": "/epic-mahabharata-nft/static/js/main.258e2ded.chunk.js",
+    "main.js.map": "/epic-mahabharata-nft/static/js/main.258e2ded.chunk.js.map",
     "runtime-main.js": "/epic-mahabharata-nft/static/js/runtime-main.e673c008.js",
     "runtime-main.js.map": "/epic-mahabharata-nft/static/js/runtime-main.e673c008.js.map",
     "static/js/2.a2777f42.chunk.js": "/epic-mahabharata-nft/static/js/2.a2777f42.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e673c008.js",
     "static/js/2.a2777f42.chunk.js",
     "static/css/main.2cfebc3a.chunk.css",
-    "static/js/main.61817d4e.chunk.js"
+    "static/js/main.258e2ded.chunk.js"
   ]
 }
