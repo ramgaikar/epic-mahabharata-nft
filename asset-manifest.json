@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/epic-mahabharat-nft/static/css/main.2cfebc3a.chunk.css",
-    "main.js": "/epic-mahabharat-nft/static/js/main.61817d4e.chunk.js",
-    "main.js.map": "/epic-mahabharat-nft/static/js/main.61817d4e.chunk.js.map",
-    "runtime-main.js": "/epic-mahabharat-nft/static/js/runtime-main.7f41826e.js",
-    "runtime-main.js.map": "/epic-mahabharat-nft/static/js/runtime-main.7f41826e.js.map",
-    "static/js/2.a2777f42.chunk.js": "/epic-mahabharat-nft/static/js/2.a2777f42.chunk.js",
-    "static/js/2.a2777f42.chunk.js.map": "/epic-mahabharat-nft/static/js/2.a2777f42.chunk.js.map",
-    "index.html": "/epic-mahabharat-nft/index.html",
-    "static/css/main.2cfebc3a.chunk.css.map": "/epic-mahabharat-nft/static/css/main.2cfebc3a.chunk.css.map",
-    "static/js/2.a2777f42.chunk.js.LICENSE.txt": "/epic-mahabharat-nft/static/js/2.a2777f42.chunk.js.LICENSE.txt",
-    "static/media/linkedin-logo.eb11e5e7.svg": "/epic-mahabharat-nft/static/media/linkedin-logo.eb11e5e7.svg",
-    "static/media/loader.6eecb0d1.svg": "/epic-mahabharat-nft/static/media/loader.6eecb0d1.svg"
+    "main.css": "/epic-mahabharata-nft/static/css/main.2cfebc3a.chunk.css",
+    "main.js": "/epic-mahabharata-nft/static/js/main.61817d4e.chunk.js",
+    "main.js.map": "/epic-mahabharata-nft/static/js/main.61817d4e.chunk.js.map",
+    "runtime-main.js": "/epic-mahabharata-nft/static/js/runtime-main.e673c008.js",
+    "runtime-main.js.map": "/epic-mahabharata-nft/static/js/runtime-main.e673c008.js.map",
+    "static/js/2.a2777f42.chunk.js": "/epic-mahabharata-nft/static/js/2.a2777f42.chunk.js",
+    "static/js/2.a2777f42.chunk.js.map": "/epic-mahabharata-nft/static/js/2.a2777f42.chunk.js.map",
+    "index.html": "/epic-mahabharata-nft/index.html",
+    "static/css/main.2cfebc3a.chunk.css.map": "/epic-mahabharata-nft/static/css/main.2cfebc3a.chunk.css.map",
+    "static/js/2.a2777f42.chunk.js.LICENSE.txt": "/epic-mahabharata-nft/static/js/2.a2777f42.chunk.js.LICENSE.txt",
+    "static/media/linkedin-logo.eb11e5e7.svg": "/epic-mahabharata-nft/static/media/linkedin-logo.eb11e5e7.svg",
+    "static/media/loader.6eecb0d1.svg": "/epic-mahabharata-nft/static/media/loader.6eecb0d1.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7f41826e.js",
+    "static/js/runtime-main.e673c008.js",
     "static/js/2.a2777f42.chunk.js",
     "static/css/main.2cfebc3a.chunk.css",
     "static/js/main.61817d4e.chunk.js"
