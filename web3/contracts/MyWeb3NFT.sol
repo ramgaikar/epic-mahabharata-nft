@@ -301,7 +301,7 @@ contract MyWeb3NFT is ERC721URIStorage {
         return colors[rand];
     }
 
-    function makeAWeb3NFT(address userAddress) public {
+    function makeAWeb3NFT() public {
         uint256 newItemId = _tokenIds.current();
 
         string memory randomWord = pickRandomsWord(newItemId);
@@ -345,7 +345,7 @@ contract MyWeb3NFT is ERC721URIStorage {
         console.log(finalTokenUri);
         console.log("--------------------\n");
 
-        _safeMint(userAddress, newItemId);
+        _safeMint(msg.sender, newItemId);
 
         // Update your URI!!!
         _setTokenURI(newItemId, finalTokenUri);
@@ -354,9 +354,9 @@ contract MyWeb3NFT is ERC721URIStorage {
         console.log(
             "An NFT w/ ID %s has been minted to %s",
             newItemId,
-            userAddress
+            msg.sender
         );
 
-        emit NewWeb3NFTMinted(userAddress, newItemId);
+        emit NewWeb3NFTMinted(msg.sender, newItemId);
     }
 }

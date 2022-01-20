@@ -20,10 +20,10 @@ const main = async () => {
   console.log('The file was saved!')
 
   // Call the function.
-  // let txn = await nftContract.makeAWeb3NFT(accounts[0])
-  // // Wait for it to be mined.
-  // await txn.wait()
-  // console.log('Minted NFT #1')
+  let txn = await nftContract.makeAWeb3NFT()
+  // Wait for it to be mined.
+  await txn.wait()
+  console.log('Minted NFT #1')
 
   // txn = await nftContract.makeAWeb3NFT(accounts[0])
   // // Wait for it to be mined.

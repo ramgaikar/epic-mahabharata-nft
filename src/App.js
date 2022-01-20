@@ -87,7 +87,7 @@ const App = () => {
         )
 
         console.log('Going to pop wallet now to pay gas...')
-        let nftTxn = await connectedContract.makeAWeb3NFT(currentAccount)
+        let nftTxn = await connectedContract.makeAWeb3NFT()
 
         setLoading(true)
         console.log('Mining...please wait.')
